@@ -13,7 +13,7 @@ Complete training in data modeling covering conceptual modeling with ER diagrams
 
 **Key Skills:** Entity-relationship modeling, normalization (1NF, 2NF, 3NF), logical to physical model translation, data dictionaries, relational algebra, application in relational and NoSQL contexts.
 
-[📄 View certificate](../../files/alura/training-programs/Data_Modeling.pdf) | [📋 View courses](../../courses/alura/README.md#data-modeling)
+[📋 View courses](../../courses/alura/README.md#data-modeling)
 
 ---
 
@@ -26,7 +26,7 @@ Complete training in administration, performance, and T-SQL development covering
 
 **Key Skills:** SQL Server administration, query optimization, stored procedures, T-SQL functions, performance tuning, CTEs.
 
-[📄 View certificate](../../files/alura/training-programs/Microsoft_SQL_Server_2022.pdf) | [📋 View courses](../../courses/alura/README.md#microsoft-sql-server-2022)
+[📄 View certificate](./files/Microsoft_SQL_Server_2022.pdf) | [📋 View courses](../../courses/alura/README.md#microsoft-sql-server-2022)
 
 ---
 
@@ -37,7 +37,7 @@ Complete PostgreSQL training focused on administration and development including
 
 **Key Skills:** PostgreSQL administration, PL/pgSQL, triggers, transactions, performance optimization, backup and recovery.
 
-[📄 View certificate](../../files/alura/training-programs/SQL_with_PostgreSQL.pdf) | [📋 View courses](../../courses/alura/README.md#sql-with-postgresql)
+[📄 View certificate](./files/SQL_with_PostgreSQL.pdf) | [📋 View courses](../../courses/alura/README.md#sql-with-postgresql)
 
 ---
 
@@ -48,7 +48,7 @@ Solid SQL foundations with SQLite covering SQL instructions, queries, joins and 
 
 **Key Skills:** SQL fundamentals, JOINs, subqueries, views, transactions, data analysis.
 
-[📄 View certificate](../../files/alura/training-programs/Undertsanting_SQL.pdf) | [📋 View courses](../../courses/alura/README.md#sql-fundamentals)
+[📄 View certificate](./files/Undertsanting_SQL.pdf) | [📋 View courses](../../courses/alura/README.md#sql-fundamentals)
 
 ---
 
@@ -61,7 +61,7 @@ Complete MongoDB training covering NoSQL fundamentals, data validation, data mod
 
 **Key Skills:** NoSQL modeling, schema validation, MongoDB queries, security, backup/restore, performance optimization, GridFS.
 
-[📄 View certificate](../../files/alura/training-programs/Mongodb.pdf) | [📋 View courses](../../courses/alura/README.md#mongodb)
+[📄 View certificate](./files/Mongodb.pdf) | [📋 View courses](../../courses/alura/README.md#mongodb)
 
 ---
 
